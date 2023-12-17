@@ -1,3 +1,7 @@
+// QUESTION LINK
+// https://leetcode.com/problems/valid-parentheses/description/ 
+
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
